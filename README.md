@@ -1,1 +1,2 @@
-# -avito-qa-trainee
+How to use: "python test.py Values.json TestcaseStructure.json"
+ 
